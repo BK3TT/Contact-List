@@ -1,5 +1,7 @@
 # Contact-List
 
+### Files will be added soon, you will be able to just clone the project
+
 In this repository, you will be able to add contacts and also search through your current contacts list
 
 Please keep reading on how to set this up. "Starting from Scratch"
@@ -114,4 +116,3 @@ class Contacts extends Model
 ?>
 ```
 
-This is the basics of getting started. If you need anymore information, you can just clone everything from the repository as it has everything needed already.
